@@ -1,0 +1,51 @@
+body {
+  background: url("http://img01.deviantart.net/843f/i/2016/313/3/e/start_screen__by_peachyfiesta-danvrga.png");
+  font-family: arial;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  font-size: 500%;
+  color: #f0ebe6;
+}
+.button {
+  text-decoration: none;
+  font-family: arial;
+  background: #00B2A0;
+  padding: 10px 70px 10px 70px;
+  font-size: 60%;
+  color: #FFD700;
+  text-align: left;
+  margin-left: 200px
+}
+.instructionbox {
+  text-align: left;
+  display: inline-block;
+  color: #ccc;
+  font-size: 200%;
+  width: 40%;
+  border: 5px light green;
+}
+
+.text {
+  font-size: 20px;
+  color: #FFD700;
+  margin-left: 200px
+}
+
+.pic {
+  width: 40%;
+  text-align: right;
+  padding: 50px 20px 10px;
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+}
+
+h6 {
+  color: #FFD700;
+    margin-left: 200px
+}
