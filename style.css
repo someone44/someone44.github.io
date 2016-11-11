@@ -1,0 +1,10 @@
+body {
+    background: url("http://img14.deviantart.net/89dc/i/2016/313/a/e/room_by_peachyfiesta-danvp91.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+  position: absolute;
+  left: 57%;
+  top: 20%;
+}
